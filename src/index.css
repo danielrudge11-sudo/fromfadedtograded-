@@ -887,11 +887,16 @@ strong {
 }
 
 /* === CONTACT === */
-.contact-grid {
+.contact-buttons {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   gap: 12px;
-  max-width: 540px;
+  margin-bottom: 20px;
+}
+
+.contact-btn {
+  font-size: 0.9375rem;
+  padding: 13px 24px;
 }
 
 .contact-card {

@@ -26,6 +26,7 @@ export default function Header() {
             <a href="#services">Pricing & FAQ</a>
             <a href="#contact">Contact</a>
             <a href="#gear">Gear</a>
+            <a href="/terms">T&Cs</a>
           </nav>
         </div>
       </div>
