@@ -12,7 +12,7 @@ const SECTIONS = [
   {
     num: '3',
     title: 'Liability',
-    body: 'FromFadedToGraded accepts no liability for any damage, loss of condition, or decrease in market value resulting from the restoration process.',
+    body: 'While every care is taken throughout the restoration process, FromFadedToGraded is unable to accept liability for any damage, change in condition, or impact on market value that may result.',
   },
   {
     num: '4',
