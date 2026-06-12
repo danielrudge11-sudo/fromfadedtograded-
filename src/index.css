@@ -758,6 +758,69 @@ strong {
   margin-bottom: 18px;
 }
 
+/* === RESTORATION AGREEMENT TAB === */
+.ra-intro {
+  font-size: 0.9375rem;
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.65;
+  margin-bottom: 20px;
+}
+
+.ra-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.ra-section {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.ra-section-num {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  background: rgba(127, 119, 221, 0.2);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-top: 1px;
+}
+
+.ra-section-title {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--white);
+  margin-bottom: 6px;
+}
+
+.ra-section-body {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.ra-confirmation {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  padding: 14px 18px;
+  background: rgba(127, 119, 221, 0.12);
+  border: 1px solid var(--border-active);
+  border-radius: var(--radius-sm);
+  line-height: 1.6;
+}
+
 /* === AFFILIATE GEAR === */
 .affiliate {
   background: var(--bg-card);
