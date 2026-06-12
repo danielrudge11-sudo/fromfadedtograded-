@@ -344,7 +344,13 @@ strong {
 
 @media (min-width: 600px) {
   .pricing-grid {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .pricing-grid {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
@@ -408,6 +414,11 @@ strong {
   gap: 16px;
   flex-wrap: wrap;
   margin-bottom: 16px;
+}
+
+.pricing-addon > div {
+  flex: 1;
+  min-width: 0;
 }
 
 .pricing-addon-label {

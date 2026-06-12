@@ -1,23 +1,30 @@
 const TIERS = [
   {
     tier: 'Tier 1',
-    name: 'General Clean & Polish',
-    desc: 'Full surface clean and polish to bring out the best in your card.',
+    name: 'Clean & Polish',
+    desc: 'A full surface clean to lift dirt, fingerprints, and surface grime, followed by a gentle polish to bring back the card\'s natural shine and presentation.',
     price: '£17',
     per: '/card',
   },
   {
     tier: 'Tier 2',
-    name: 'Light Damage',
-    desc: 'Light dents, creases, scratches or edge lifts. Includes clean & polish.',
-    price: '£30',
+    name: 'Edge & Corner Lifts',
+    desc: 'Repair for lifted edges and corners caused by wear or handling. Lifted layers are carefully pressed to restore a flat, secure finish. Includes a full clean & polish.',
+    price: '£25',
     per: '/card',
   },
   {
     tier: 'Tier 3',
-    name: 'Heavy Damage',
-    desc: 'Heavy dents, creases, scratches or edge lifts. Includes clean & polish.',
-    price: '£45',
+    name: 'Dents',
+    desc: 'Repair for dents caused by knocks, pressure marks, or impact damage. Using controlled humidity and pressing techniques, dents are gently worked out to restore a smoother, flatter surface. Includes a full clean & polish.',
+    price: '£35',
+    per: '/card',
+  },
+  {
+    tier: 'Tier 4',
+    name: 'Creases',
+    desc: 'Repair for creases of all severities. Creases are treated using humidity and slow, even pressing to reduce fibre damage and flatten the card as much as possible. Please note that deep creases may show some reduction rather than full removal, due to the nature of card fibres. Includes a full clean & polish.',
+    price: '£50+',
     per: '/card',
   },
 ]
