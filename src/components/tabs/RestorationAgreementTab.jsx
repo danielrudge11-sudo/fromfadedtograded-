@@ -17,7 +17,7 @@ const SECTIONS = [
   {
     num: '4',
     title: 'Slab Cracks',
-    body: 'Slab cracking carries risk of damage to the card inside. This process is irreversible and I accept no liability for any damage caused.',
+    body: "Slab cracking is a delicate process and carries some risk of damage to the card inside. As this process is irreversible, please be aware that I'm unable to accept liability for any damage that may occur.",
   },
 ]
 
