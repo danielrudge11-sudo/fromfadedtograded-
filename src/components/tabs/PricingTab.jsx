@@ -22,8 +22,8 @@ const TIERS = [
   },
   {
     tier: 'Tier 4',
-    name: 'Creases',
-    desc: 'Repair for creases of all severities. Creases are treated using humidity and slow, even pressing to reduce fibre damage and flatten the card as much as possible. Please note that deep creases may show some reduction rather than full removal, due to the nature of card fibres. Includes a full clean & polish.',
+    name: 'Creases & Delamination',
+    desc: 'Repair for creases and delamination. Treated using advanced humidification, tooling and pressing techniques to reduce fibre damage and flatten the card as much as possible. Please note that deep creases may show some reduction rather than full removal, delamination may not re-adhere if there is not enough adhesive left on the card. Includes a full clean & polish.',
     price: '£50+',
     per: '/card',
     note: '(Depends on the condition of the card)',
