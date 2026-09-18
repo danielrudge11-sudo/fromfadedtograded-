@@ -29,14 +29,7 @@ export default function FAQsTab() {
           <li className="faq-step">
             <span className="faq-step-num">4</span>
             <span className="faq-step-text">
-              Please ensure a <strong>pre-paid tracked return label</strong> is included in your parcel so I can return your card once the work is complete.
-              <span className="faq-step-hint">💡 Royal Mail can arrange this at your local Post Office - they will provide a silver bag and a pre-printed return label to place inside your package.</span>
-            </span>
-          </li>
-          <li className="faq-step">
-            <span className="faq-step-num">5</span>
-            <span className="faq-step-text">
-              I will film the repackaging of your card before it is sent back, so you can see exactly what is being returned to you.
+              I will film the packaging of your card so you can see exactly what is being returned to you, and send back via the postage service agreed in your quote.
             </span>
           </li>
         </ul>
