@@ -27,7 +27,7 @@ export default function Terms() {
             <ul className="terms-list">
               <li>Cards must be securely packaged. We recommend penny sleeves, top loaders and bubble wrap as a minimum.</li>
               <li>We strongly recommend sending via Royal Mail Special Delivery or an equivalent tracked and insured service.</li>
-              <li>A prepaid return label must be included in the package. We are not responsible for return postage costs.</li>
+              <li>Return postage is agreed and included as part of your quote.</li>
               <li>We are not liable for any damage caused during transit to us or back to you.</li>
             </ul>
           </div>
@@ -83,7 +83,7 @@ export default function Terms() {
           <div className="terms-section">
             <h2 className="terms-section-title">7. Returns</h2>
             <ul className="terms-list">
-              <li>Cards will be returned via the prepaid label included with your submission.</li>
+              <li>Cards will be returned via the postage service agreed in your quote.</li>
               <li>Cards will be returned in a penny sleeve, top loader and bubble mailer as a minimum.</li>
               <li>We are not responsible for any damage caused during return transit.</li>
             </ul>
