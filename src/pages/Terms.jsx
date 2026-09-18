@@ -25,7 +25,7 @@ export default function Terms() {
           <div className="terms-section">
             <h2 className="terms-section-title">1. Sending Your Card</h2>
             <ul className="terms-list">
-              <li>Cards must be securely packaged. We recommend penny sleeves, top loaders and bubble wrap as a minimum.</li>
+              <li>Cards must be securely packaged. We recommend penny sleeves, top loaders and bubble wrap/mailer as a minimum.</li>
               <li>We strongly recommend sending via Royal Mail Special Delivery or an equivalent tracked and insured service.</li>
               <li>We are not liable for any damage caused during transit to us or back to you.</li>
             </ul>
