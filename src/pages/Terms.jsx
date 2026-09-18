@@ -16,7 +16,7 @@ export default function Terms() {
       <div className="container">
         <div className="terms-content">
           <h1 className="terms-title">Terms & Conditions</h1>
-          <p className="terms-date">Last updated: May 2026</p>
+          <p className="terms-date">Last updated: September 2026</p>
 
           <p className="terms-intro">
             By sending your cards to FromFadedToGraded you agree to the following terms and conditions. Please read them carefully before submitting any cards for restoration.
@@ -27,7 +27,6 @@ export default function Terms() {
             <ul className="terms-list">
               <li>Cards must be securely packaged. We recommend penny sleeves, top loaders and bubble wrap as a minimum.</li>
               <li>We strongly recommend sending via Royal Mail Special Delivery or an equivalent tracked and insured service.</li>
-              <li>Return postage is agreed and included as part of your quote.</li>
               <li>We are not liable for any damage caused during transit to us or back to you.</li>
             </ul>
           </div>
