@@ -413,6 +413,13 @@ strong {
   color: var(--text-muted);
 }
 
+.price-card-note {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-top: 6px;
+}
+
 .pricing-addon {
   background: var(--bg-card);
   border: 1px solid var(--border);

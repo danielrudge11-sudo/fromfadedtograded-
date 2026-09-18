@@ -26,6 +26,7 @@ const TIERS = [
     desc: 'Repair for creases of all severities. Creases are treated using humidity and slow, even pressing to reduce fibre damage and flatten the card as much as possible. Please note that deep creases may show some reduction rather than full removal, due to the nature of card fibres. Includes a full clean & polish.',
     price: '£50+',
     per: '/card',
+    note: '(Depends on the condition of the card)',
   },
 ]
 
@@ -41,6 +42,7 @@ export default function PricingTab() {
             <p className="price-card-price">
               {item.price}<span>{item.per}</span>
             </p>
+            {item.note && <p className="price-card-note">{item.note}</p>}
           </div>
         ))}
       </div>
