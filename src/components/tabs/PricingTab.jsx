@@ -59,7 +59,9 @@ export default function PricingTab() {
       <div className="pricing-upfront-banner">
         <span className="pricing-upfront-icon">💳</span>
         <span className="pricing-upfront-text">
-          <strong>Payments are taken upfront</strong> before any work begins.
+          <strong>Payments are taken upfront</strong> before any work begins.<br />
+          I prefer cash payments, placed inside the parcel and shipped with your cards.<br />
+          I can also take a bank transfer, I can provide these details directly.
         </span>
       </div>
 
