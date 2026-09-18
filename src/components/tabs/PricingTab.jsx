@@ -63,13 +63,6 @@ export default function PricingTab() {
         </span>
       </div>
 
-      <div className="pricing-upfront-banner">
-        <span className="pricing-upfront-icon">🃏</span>
-        <span className="pricing-upfront-text">
-          <strong>Prefer to pay in Pokémon cards?</strong> I'm happy to accept Pokémon cards as payment - just note that a minimum value of <strong>£5 per card</strong> applies. Bulk commons and low-value Pokémon cards won't be accepted.
-        </span>
-      </div>
-
       <div className="pricing-quote-cta">
         <p className="pricing-quote-title">How to get a quote</p>
         <p className="pricing-quote-desc">
