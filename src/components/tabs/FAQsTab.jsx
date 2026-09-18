@@ -51,7 +51,7 @@ export default function FAQsTab() {
           <li className="faq-location">
             <span className="faq-location-dot" />
             <span>
-              I also operate out of <strong>central London, near Liverpool Street Station</strong> one day per week, and can arrange to meet there if more convenient.
+              I also operate out of <strong>central London, near Liverpool Street Station</strong> one day per week (typically a Tuesday), and can arrange to meet there if more convenient.
             </span>
           </li>
         </ul>
